@@ -57,3 +57,6 @@ acho que não vai dar certo.
 
 ### versão de controle 6
 realmente só deletar não funciona tem que voltar uma versão.
+
+
+foi gerado uma nova versão do arquivo flowTeamwork.gif com tamanhoo de 539Kb, vamos fazer o teste agora.

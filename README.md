@@ -45,4 +45,6 @@ segundo aquivos de 982KB foi sincronizado com sucesso.
 ### versão de controle 4
 O arquivo Assigment2 não estava exibindo os gifs, mas quando entrei no mesmo e deletei uma linha em branco os gifs apareceram
 
+O arquivo Assigment2 não estava com extenção MD. isso foi asjutado
+
 

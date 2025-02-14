@@ -219,3 +219,6 @@ An analogy to understand this would be to think of machine code as your home add
 Both have the same purpose, but assembly is easier to understand.
 
 source: [Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+
+
+Uma alteração para testar no VSCode

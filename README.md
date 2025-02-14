@@ -42,3 +42,7 @@ Novo arquivo gif inserido o nome dele é flowWorkstation.gif ele possui 982KB
 ### versão de controle 3
 segundo aquivos de 982KB foi sincronizado com sucesso.
 
+### versão de controle 4
+O arquivo Assigment2 não estava exibindo os gifs, mas quando entrei no mesmo e deletei uma linha em branco os gifs apareceram
+
+

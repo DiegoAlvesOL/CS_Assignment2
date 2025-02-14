@@ -28,4 +28,7 @@ Everything up-to-date
 
 desta vez vou tentar colocar apenas o arquivo PNG.
 
+### versãoo de controle
+
+essa versão possui todas os arquivos PNG se funcionar vamos iniciar os teeste com os arquivos gif
 

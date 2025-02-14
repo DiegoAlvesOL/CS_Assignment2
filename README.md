@@ -50,3 +50,10 @@ O arquivo Assignment2 não estava com extensão MD. isso foi asjutado
 ### versão de controle 5
 
 Gerando versão de controle para inserir o gif de 1.1MB
+
+encontrado o problema é realmente o gif de 1.1MB que causa problema
+agora vou tentar simplesmente deletar o arquivo e fazer uma nova tentativa de sincronizar o proje a
+acho que não vai dar certo.
+
+### versão de controle 6
+realmente só deletar não funciona tem que voltar uma versão.

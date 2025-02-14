@@ -34,3 +34,7 @@ essa versão possui todas os arquivos PNG se funcionar vamos iniciar os teeste c
 
 ### versão de controle 2
 O primeiro arquivo Giff foir inserido com sucesso ele tem 497kb é o arquivo flowGitHub.gif
+
+
+Novo arquivo gif inserido o nome dele é flowWorkstation.gif ele possui 982KB
+

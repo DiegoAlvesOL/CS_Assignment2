@@ -114,7 +114,8 @@ In the following flow, we can see this process clearly:
 
 <flowTeamwork align= "left">
 <img width="6000" src = "src/assets/img/flowGitHub.gif"> 
-</flowTeamwork> 
+</flowTeamwork>
+
 
 Although GitHub is more popular and has the highest number of users, [according to a StackOverflow 2022 Developer Survey](https://survey.stackoverflow.co/2022/#section-version-control-version-control-platforms).
 Gitlab and Bitbucket are alternatives to GitHub and offer functionalities that attract the attention of companies, making the number of professional users greater than the number of users for personal use.

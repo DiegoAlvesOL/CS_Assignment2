@@ -28,7 +28,9 @@ Everything up-to-date
 
 desta vez vou tentar colocar apenas o arquivo PNG.
 
-### versãoo de controle
+### versão de controle 1
 
 essa versão possui todas os arquivos PNG se funcionar vamos iniciar os teeste com os arquivos gif
 
+### versão de controle 2
+O primeiro arquivo Giff foir inserido com sucesso ele tem 497kb é o arquivo flowGitHub.gif

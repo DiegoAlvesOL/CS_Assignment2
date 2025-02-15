@@ -17,4 +17,9 @@ Branch: adjustReadme
 Change log:  
 now this text is only present in the adjustReadme2 branch 
 Version: 2.0
+Branch: adjustReadme2
 
+Change log:  
+now this text is only present in the adjustReadme3 branch 
+Version: 3.0
+Branch: adjustReadme3

@@ -12,4 +12,7 @@ These changes were inserted in a new Branch and only in the new branch can I see
 Version: 1.0
 
 
+Change log:  
+now this text is only present in the adjustReadme2 branch 
+Version: 2.0
 

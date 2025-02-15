@@ -9,7 +9,9 @@ In this process I created the project on Github, and in my Visual Studio Code id
 Change log:  
 Inserting new lines into Readme files.
 These changes were inserted in a new Branch and only in the new branch can I see this text.
-Version: 1.0
+Version: 1.1
+Branch: adjustReadme
+
 
 
 Change log:  
